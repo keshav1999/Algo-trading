@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Apr  3 22:15:28 2022
-@author: neera
 """
 import pandas as pd
 import datetime
