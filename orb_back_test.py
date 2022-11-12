@@ -79,5 +79,6 @@ def print_hi():
                     signal = ""
 
     trades.to_csv("orb_trades.csv")
+
 if __name__ == '__main__':
     print_hi()
