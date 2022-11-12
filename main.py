@@ -17,7 +17,7 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     end_date = datetime.datetime.now()
-    start_date = end_date - datetime.timedelta(days=365)
+    start_date = end_date - datetime.timedelta(days=730)
     end_timestamp = str(int(datetime.datetime.timestamp(end_date))) + "000"
     start_timestamp = str(int(datetime.datetime.timestamp(start_date))) + "000"
 
