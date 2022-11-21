@@ -1,0 +1,166 @@
+sudo add-apt-repository ppa:ppsspp/stable
+  372  sudo apt-get install ppsspp
+  373  sudo apt install snapd
+  374  ps aux | grep -i apt
+  375  sudo apt install snapd
+  376  sudo lsof /var/lib/dpkg/lock
+  377  sudo lsof /var/lib/apt/lists/lock
+  378  sudo lsof /var/cache/apt/archives/lock
+  379  sudo kill -9 4343
+  380  sudo apt install snapd
+  381  sudo snap install ppsspp-emu
+  382  ppsspp-emu
+  383  ppsspp
+  384  ifconfig
+  385  sudo apt update && sudo apt install libcanberra-gtk-module libgconf-2-4 libatomic1
+  386  sudo mkdir /opt/popcorntime
+  387  cd Downloads/
+  388  ls
+  389  sudo unzip Popcorn-Time-0.4.0-2-Linux-64.tar.xz -d /opt/popcorntime/
+  390  sudo unzip Popcorn-Time-0.4.0-2-Linux-64.tar.xz
+  391  sudo cd
+  392  cd
+  393  cd Desktop/pop/
+  394  ./install 
+  395  cd
+  396  cd /home/keshav/
+  397  ls
+  398  whoami
+  399  sudo -i
+  400  git --version
+  401  git help
+  402  cd Desktop/
+  403  mkdir reporepo
+  404  cd reporepo/
+  405  git init
+  406  pwd
+  407  ls -ltr
+  408  ls -ltra
+  409  cd .git
+  410  ls -ltr
+  411  cd branches/
+  412  ls -ltr
+  413  cd ..
+  414  git clone https://github.com/keshav1999/Airflow.git
+  415  ls -ltr
+  416  cd Airflow/
+  417  ll -ltr
+  418  cd ..
+  419  git config
+  420  git config --global user.name "keshav1999"
+  421  git config --g
+  422  git config --global edit
+  423  git config --global --edit
+  424  ll -ltra
+  425  pwd
+  426  cd
+  427  ls -ltra
+  428  vim .gitconfig 
+  429  less .gitconfig 
+  430  vi .gitconfig 
+  431  cd Desktop/reporepo/
+  432  cd Airflow/
+  433  ls -ltr
+  434  git branch
+  435  vi hello.html 
+  436  cd Desktop/reporepo/Airflow/
+  437  ls -ltr
+  438  vim hello.html 
+  439  less hello.html 
+  440  vi hello.html 
+  441  cat hello.html 
+  442  git add .
+  443  git commit -m "Updated hello"
+  444  git push origin main
+  445  history
+  446  pip3 install pandas_ta
+  447  pwd
+  448  ls -ltr
+  449  mkdir pbatchgitrepos
+  450  cd pbatchgitrepos/
+  451  clear
+  452  git init
+  453  git -version
+  454  git --version
+  455  ls -ltrh
+  456  ls -ltrA
+  457  cd .git
+  458  ls -ltr
+  459  ls -ltra
+  460  cd hooks
+  461  ls-ltr
+  462  ls -ltr
+  463  cd ..
+  464  cd refs/
+  465  ls -ltra
+  466  cd heads
+  467  ls -ltra
+  468  cd ..
+  469  ls -ltr
+  470  git clone https://github.com/keshav1999/Algo-trading.git
+  471  ls -ltr
+  472  cd ..
+  473  git clone https://github.com/keshav1999/Algo-trading.git
+  474  ls -ltra
+  475  ls -ltr
+  476  cd Algo-trading/
+  477  ls -ltr
+  478  cd ..
+  479  git config
+  480  git config --global user.name "keshav1999"
+  481  gti config --global user.email "keshavc24@gmail.com"
+  482  git config --global user.email "keshavc24@gmail.com"
+  483  git config --global --edit
+  484  ls -ltra
+  485  pwd
+  486  cd ..
+  487  ls -ltra
+  488  vi .gitconfig 
+  489  cd pbatchgitrepos/
+  490  cd Algo-trading/
+  491  ls -ltr
+  492  git branch
+  493  clear
+  494  history
+  495  clear
+  496  ls -ltr
+  497  vi main.py
+  498  git add
+  499  git add .
+  500  git commit -m "Random message on main.py"
+  501  git push origin master
+  502  cd ..
+  503  cd .git/
+  504  ls -ltra
+  505  cd ..
+  506  cd Algo-trading/
+  507  cd .git/
+  508  ls -ltr
+  509  cat index
+  510  62;c62;cclear
+  511  clear
+  512  cd objects/
+  513  ls -ltr
+  514  cd dc/
+  515  ls -ltr
+  516  cd ..
+  517  ls -ltr
+  518  history
+  519  clear
+  520  git branch
+  521  cd Algo-trading/
+  522  git branch
+  523  git pull
+  524  ls =ltr
+  525  ls -ltr
+  526  git branch
+  527  git checkout -b dev-cui
+  528  git branch
+  529  ls -ltr
+  530  vi main.py 
+  531  git add .
+  532  git commit -m "fixed previous is dev-cli"
+  533  git push origin dev-cui 
+  534  touch token.txt
+  535  vi token.txt 
+
